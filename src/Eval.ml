@@ -25,10 +25,10 @@ module type R =
 module Eval (R : R) =
   struct
 
-    let step c = function
+(*    let step c = function
     | 
     | x -> x
-         
+ *)       
   end
   
 (* Likelihood Weighted Importance Sampler *)
